@@ -47,7 +47,7 @@ Then open a Command Prompt into that directory and run
 
 ### Volume
 
-To use the volume module, make sure you have the HandTrackModule in the same directory and download/copy & paste [this file](https://github.com/spiiralo/handtrack-ar/modules/volume.py) and put it in the same dir (directory) as the module.
+To use the volume module, make sure you have the HandTrackModule in the same directory and download/copy & paste [this file]https://github.com/spiiralol/handtrack-ar/blob/main/modules/volume.py) and put it in the same dir (directory) as the module.
 
 Make sure to install `pycaw` with `pip install pycaw` otherwise it won't work!
 

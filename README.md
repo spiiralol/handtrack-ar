@@ -9,7 +9,6 @@ HandTrack is based of of [this code/video](https://www.youtube.com/watch?v=NZde8
   * [Prerequisites](#prerequisites)
   * [Download Source](#download-source)
   * [Download Module](#download-module)
-  * [Execution](#execution)
 * [Acknowledgements](#acknowledgements)
 
 ## Usage
@@ -31,3 +30,18 @@ Then open a Command Prompt window which is in that directory and run
 And there you go! When your done, just press Q to close out the window.
 
 > To remove it saying the coords of your hands, just comment out line 27 or `print(id, cx, cy)`
+
+### Download-Module
+
+Goto [this script](https://github.com/spiiralol/handtrack-ar/blob/main/HandTrackModule.py) and download/copy & paste the code into a file called `HandTrackModule.py`.
+Then in an existing or new app copy and paste the code from [this file](https://github.com/spiiralol/handtrack-ar/blob/main/ModuleCode.py) into that app.
+
+Then open a Command Prompt into that directory and run
+> ```python3 {file name here}.py``` replacing {file name here} with the name of your app.
+> To remove the printing of the hand coords, comment out `print(lmList[4])` that line of code in your app file.
+
+
+## Acknowledgements
+
+Origin code: Murztas Workshop (YT)
+Contributors: spiiralol/GateLogic

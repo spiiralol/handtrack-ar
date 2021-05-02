@@ -7,7 +7,8 @@ HandTrack is based of of [this code/video](https://www.youtube.com/watch?v=NZde8
 ## Table of Contents
 * [Usage](#usage)
   * [Prerequisites](#prerequisites)
-  * [Download](#download)
+  * [Download Source](#download-source)
+  * [Download Module](#download-module)
   * [Execution](#execution)
 * [Acknowledgements](#acknowledgements)
 
@@ -17,5 +18,5 @@ HandTrack is based of of [this code/video](https://www.youtube.com/watch?v=NZde8
 
 To use HandTrack you need Python3.7 or above or it will not run (older versions have not been tested). When installing, make sure to check the Add to PATH checkbox or Python will most likley not run on your system.
 
-### Download
+### Download-Source
 

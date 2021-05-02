@@ -1,7 +1,7 @@
 """
 Hand Tracking Module
 Developed by: Murzta Workshop
-Contribs by: GateLogic
+Contribs by: GateLogic/spiiralol
 """
 
 import cv2

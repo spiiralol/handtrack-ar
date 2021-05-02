@@ -1,6 +1,6 @@
 # HandTrack AR
 
-HandTrack is based of of [this code/video](https://www.youtube.com/watch?v=NZde8Xt78Iw) but I've ajdusted it and improved it.
+DISCLAMER: I did not write mush of this code, I would have forked the original repo, but there aint' one so I have made this. HandTrack AR is based of of [this code/video](https://www.youtube.com/watch?v=NZde8Xt78Iw).
 
 > SIGN IN NEEDED: [Original Source Code](https://www.murtazahassan.com/courses/advance-computer-vision/lesson/basics-and-module-code/)
 

@@ -9,6 +9,8 @@ HandTrack is based of of [this code/video](https://www.youtube.com/watch?v=NZde8
   * [Prerequisites](#prerequisites)
   * [Download Source](#download-source)
   * [Download Module](#download-module)
+* [Modules](#modules)
+  * [Volume](#volume)
 * [Acknowledgements](#acknowledgements)
 
 ## Usage
@@ -38,7 +40,16 @@ Then in an existing or new app copy and paste the code from [this file](https://
 
 Then open a Command Prompt into that directory and run
 > ```python3 {file name here}.py``` replacing {file name here} with the name of your app.
+> 
 > To remove the printing of the hand coords, comment out `print(lmList[4])` that line of code in your app file.
+
+## Modules
+
+### Volume
+
+To use the volume module, make sure you have the HandTrackModule in the same directory and download/copy & paste [this file](https://github.com/spiiralo/handtrack-ar/modules/volume.py) and put it in the same dir (directory) as the module.
+
+Make sure to install `pycaw` with `pip install pycaw` otherwise it won't work!
 
 
 ## Acknowledgements

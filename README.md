@@ -29,3 +29,5 @@ Then open a Command Prompt window which is in that directory and run
 > ```python3 handtrack.py```
 
 And there you go! When your done, just press Q to close out the window.
+
+> To remove it saying the coords of your hands, just comment out line 27 or `print(id, cx, cy)`
